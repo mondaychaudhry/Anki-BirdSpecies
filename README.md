@@ -26,7 +26,7 @@ First, make sure you have Anki for desktop downloaded from apps.ankiweb.net. The
 
 If you do not yet have a free account on Ankiweb, you might want to create one so that you will not lose your progress if your local files get deleted. On the main Anki screen, click the Sync button; if you are logged in, it should sync successfully, but otherwise it will ask you to log in. Use either an existing account, or first create an account from ankiweb.net and then put in your details.
 
-Once your Anki is set up, all you need to do is download the .apkg file from this repository and open it with Anki (it should already be the default program for this extension, so you just have to open the file). Anki will load if it is not open, and the deck will be added to your list of decks.
+Once your Anki is set up, all you need to do is download the files from this repository that end in .zip.00x (where x is another digit), unzip these files and open the .apkg file that is contained within with Anki (it should already be the default program for this extension, so you just have to open the file). Anki will load if it is not open, and the deck will be added to your list of decks.
 
 There are mobile versions for Anki that many prefer for reviews, although creating new cards tends to be easier on the desktop version. The iPhone version requires a one-time payment, but the Android app AnkiDroid is free. You can also just stick with the desktop version for your reviews. If you use both, be sure to sync before and after each session, so that there are no conflicts between your progress on both platforms.
 
@@ -40,7 +40,7 @@ Just above the fields, there is a button labeled "Fields..." and another one lab
 
 
 CONTRIBUTING
-Contributions to the deck are most welcome. The easiest thing to do is to open an issue on the GitHub repository to let me know about any mistake you find or suggest any improvement that you may have for the deck. If you want to clone the repository yourself, please bear in mind that the main deck file is large, and so requires Git LFS (Git Large File Storage) to access.
+Contributions to the deck are most welcome. The easiest thing to do is to open an issue on the GitHub repository to let me know about any mistake you find or suggest any improvement that you may have for the deck.
 
 
 
