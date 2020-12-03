@@ -1,19 +1,3 @@
-CONTENTS
-
-Overview
-
-Installation
-
-Customization
-
-Contributing
-
-History
-
-Acknowledgment
-
-
-
 OVERVIEW
 
 This Anki deck covers bird species common to the Netherlands. While the species were selected with the Netherlands in mind, the overlap to other European countries is very large, so users not from the Netherlands will likely also get some use out of it.
